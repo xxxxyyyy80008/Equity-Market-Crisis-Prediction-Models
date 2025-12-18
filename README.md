@@ -1,1 +1,1 @@
-# equity-crisis-prediction
+# Equity Market Crisis Regime Prediction
