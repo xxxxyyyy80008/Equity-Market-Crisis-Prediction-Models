@@ -6,7 +6,7 @@
 
 
 Machine learning approaches to market crash detection and early warning systems.
-{: .fs-5 .fw-300 }
+
 
 
 ## Definition of "Crisis"
